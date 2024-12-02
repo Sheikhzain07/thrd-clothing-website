@@ -18,7 +18,7 @@ The [Thrd Clothing Website](https://thrd-clothing-website-zain.netlify.app/) is 
   2 .Category
   3 .Price
   4 .Placeholder Image (or from ImageURL in the CSV).
-### Product Page:
+### Data Handling with CSV Files:
 - **Users Data**: users.csv contains user details for authentication.
 - **Purchase History**: purchase_history.csv maps users to purchased product IDs.
 - **Products Data**: products.csv contains details like product name, category, price, and image URLs.
